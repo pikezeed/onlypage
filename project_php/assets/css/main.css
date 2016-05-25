@@ -1,0 +1,70 @@
+body{
+
+}
+.container-main{
+   width: 1024px;
+   margin-left: auto;
+   margin-right: auto;
+
+}
+
+.container-editor{
+  padding-top: 40px;
+  padding-bottom: 70px;
+}
+.container-gallery{
+  padding-bottom: 70px;
+  margin-bottom: 20px;
+}
+.container-file{
+
+}
+.container-fixed{
+  max-width: none !important;
+}
+.container-fixed .col{
+  width: 250px;
+
+margin-top: 20px;
+  float: left;
+}
+
+
+.container-fixed .col video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.container-fixed .col img{
+  display: block;
+  height: 200px;
+  /*width: 200px;*/
+  max-width: 95%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 5px;
+}
+.wrapper-img{
+  width: 95%;
+  border: 1px solid rgba(0, 0, 0, .2);
+}
+.wrapper-video{
+  width: 95%;
+
+}
+.clearboth{
+  clear: both;
+}
+.edsubmit{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+.warp-video{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
